@@ -6,7 +6,7 @@ import Login from "./Login";
 import NavBar from "./NavBar";
 import Signup from "./Signup";
 
-function Ap() {
+function App() {
     return (
     <div>
       <NavBar />
@@ -27,3 +27,5 @@ function Ap() {
     </div>
     );
 }
+
+export default App;
